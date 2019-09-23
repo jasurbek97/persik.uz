@@ -1,0 +1,236 @@
+/*----- 4K Monitors -----*/
+@media screen and (max-width: 2560px) {
+	
+}
+
+/*----- Laptop L -----*/
+@media screen and (max-width: 1440px) {
+	
+}
+
+@media screen and (max-width: 1200px) {
+	
+}
+
+
+/*----- Laptop -----*/
+@media screen and (max-width: 1024px) {
+	.mycard_img {
+		 height: 300px; 
+	}
+}
+
+
+@media screen and (max-width: 850px) {
+	
+}
+
+
+/*----- Tablet -----*/
+@media screen and (max-width: 768px) {
+	.main-ul {
+		flex-direction: column;
+		display: flex;
+		align-items: flex-start;
+		width: 100%;
+	}
+
+	.main-ul li a {
+		padding: 0;
+		margin-left: 50px;
+	}
+	#menu {
+		flex-direction: column;
+		height: 100%;
+	}
+	.responsive-nav {
+		display: flex;
+	}
+	.notresponsive-nav {
+		display: none;
+	}
+	.touch-side-swipe {
+		background: #fff!important;
+	}
+	.link {
+		color: #222!important;
+	}
+	.top-div {
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+		padding: 0 15px;
+	}
+	
+	.main-ul li {
+		padding: 1rem 0;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.mycard_btns a {
+		font-size: 12px;
+	}
+	.section_title {
+		font-size: 18px;
+	}
+	.mycard_img {
+		/* height: 250px; */
+	}
+	.mycard_info h3 {
+		font-size: 14px;
+	}
+	.mycard_info h4 {
+		font-size: 16px;
+		padding-top: 2px;
+	}
+	.res-dflex {
+		display: flex;
+	}
+	.mycard {
+		/*display: flex;*/
+	}
+	.mycard_img {
+		 height: 250px; 
+	}
+	.mycard_img2 {
+		/* height: 250px; */
+	}
+	.mycard_info2 {
+		padding: 15px;
+	}
+	.mycard_info2 h3 {
+		font-size: 14px;
+	}
+	.white_bg p {
+		font-size: 13px;
+	}
+	.white_bg {
+		padding: 25px;
+	}
+	.mycard_info2 h4 {
+		font-size: 16px;
+	}
+	.mybig_card .mycard_info2 {
+		padding: 15px;
+	}
+	.mybig_card .mycard_info2 h4 {
+		font-size: 14px;
+		padding-top: 3px;
+	}
+	.mybig_card .mycard_info2 h4 span {
+		font-size: 12px;
+	}
+	.mybig_card .mycard_img2 {
+		/* height: 250px; */
+	}
+	.mycard_info2 h4 span {
+		font-size: 11px;
+	}
+	.mycard_info h4 span {
+		font-size: 11px;
+	}
+	.categorie {
+		padding: 46px;
+	}
+	.categorie h3 {
+		font-size: 15px;
+	}
+	.mycard_info {
+		padding: 15px 12px;
+	}
+	.logo {
+		font-size: 24px;
+		padding: 25px 0 0 20px;
+	}
+	.main-ul li {
+		margin: 0;
+	}
+	.main-ul li a{
+		font-weight: 600;
+		font-size: 18px;
+	}
+	.logo-div {
+		padding-top: 35px;
+		padding-bottom: 35px;
+	}
+}
+
+
+/*----- Mobile L -----*/
+@media screen and (max-width: 425px) {
+	
+}
+
+/*----- Mobile M -----*/
+@media screen and (max-width: 375px) {
+	
+}
+
+/*----- Mobile S -----*/
+@media screen and (max-width: 320px) {
+	
+}
+
+
+
+
+
+
+
+
+
+
+/*------------------ MOBILE-FIRST Method ------------------*/
+
+/*----- Mobile S -----*/
+@media screen and (min-width: 320px) {
+	
+}
+
+
+/*----- Mobile M -----*/
+@media screen and (min-width: 375px) {
+	
+}
+
+
+/*----- Mobile L -----*/
+@media screen and (min-width: 425px) {
+	
+}
+
+
+/*----- Tablet -----*/
+@media screen and (min-width: 600px) {
+	
+}
+
+@media screen and (min-width: 768px) {
+	
+}
+
+
+/*----- Laptop -----*/
+@media screen and (min-width: 850px) {
+	
+}
+
+@media screen and (min-width: 1024px) {
+	
+}
+
+
+/*----- Laptop L -----*/
+@media screen and (min-width: 1200px) {
+	
+}
+
+@media screen and (min-width: 1440px) {
+	
+}
+
+/*----- 4K Monitors -----*/
+@media screen and (min-width: 2560px) {
+	
+}
